@@ -290,7 +290,7 @@ Gage locked the essay by answering three questions from Claude:
 - **The closing line** ("The shame was never in needing the help. It was in pretending I didn't."). Claude flagged it as its own line and the kind of neat button Gage had rejected in draft one, and recommended cutting it. Gage kept it.
 - **"I journaled as a kid."** Claude flagged that Gage had not said "as a kid." Gage confirmed it is true.
 
-Draft two was locked with no further changes. The only addition for publication is a footer: Claude wrote the words, the seed, the seeing, and the conducting are Gage's, with a link to this record.
+Draft two was locked with no further changes. The only additions for publication are Gage's standing disclosure line ("Human for the seeing, the seeding and the conducting. Lumen for the research and words." Lumen is his name for the Claude he works with) with a link to this record, and a cover image Claude drew: a graded test with his name, a circled red A+, and a handwritten answer to "Who made this page? Show your work." that says the machine drew the page and wrote the words.
 
 ## Status
 
