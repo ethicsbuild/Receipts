@@ -211,7 +211,7 @@ Here's what I want to do. Let me pull your actual phrasings from this conversati
 
 **Claude:** I've already got what I need from this call. Let me just build it.
 
-### Draft two (current)
+### Draft two (final)
 
 > **The Scarlet Letter**
 >
@@ -282,9 +282,18 @@ Claude said draft two was "built from your actual lines." That is mostly true, b
 - "Anybody can slap 'made with AI' at the bottom of a page."
 - The closing line: "The shame was never in needing the help. It was in pretending I didn't." It is a neat closing button, the thing he rejected in draft one, and it survived into draft two.
 
+## Finalizing, September 26
+
+Gage locked the essay by answering three questions from Claude:
+
+- **The cut-off note ("maybe on the...").** Dropped, no edit.
+- **The closing line** ("The shame was never in needing the help. It was in pretending I didn't."). Claude flagged it as its own line and the kind of neat button Gage had rejected in draft one, and recommended cutting it. Gage kept it.
+- **"I journaled as a kid."** Claude flagged that Gage had not said "as a kid." Gage confirmed it is true.
+
+Draft two was locked with no further changes. The only addition for publication is a footer: Claude wrote the words, the seed, the seeing, and the conducting are Gage's, with a link to this record.
+
 ## Status
 
-- The essay is not locked. Draft two stands.
-- Gage's last note began "maybe on the" and was cut off. That edit is still open.
+- The essay is final: draft two, above, unchanged.
 - Ruled September 25: the child with the accommodation is not identified, in the essay or in this record.
-- Home: a public GitHub repository. Links from Substack, LinkedIn, and Facebook point directly to this file, not to the repo.
+- Home: this public GitHub repository. Links from Substack, LinkedIn, and Facebook point directly to this file, not to the repo.
