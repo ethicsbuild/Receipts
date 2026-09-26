@@ -17,9 +17,9 @@ My spoken lines are transcribed as I said them, with the false starts and the sw
 
 ## Records
 
-| Piece | Record |
-|---|---|
-| The Scarlet Letter | [scarlet-letter-process-record.md](scarlet-letter-process-record.md) |
+| Piece | Published | Record |
+|---|---|---|
+| [The Scarlet Letter](https://gagecasswoodle.substack.com/p/the-scarlet-letter) | September 26, 2026 | [scarlet-letter-process-record.md](scarlet-letter-process-record.md) |
 
 ## Why
 

@@ -295,5 +295,6 @@ Draft two was locked with no further changes. The only additions for publication
 ## Status
 
 - The essay is final: draft two, above, unchanged.
+- Published September 26, 2026: https://gagecasswoodle.substack.com/p/the-scarlet-letter
 - Ruled September 25: the child with the accommodation is not identified, in the essay or in this record.
 - Home: this public GitHub repository. Links from Substack, LinkedIn, and Facebook point directly to this file, not to the repo.
