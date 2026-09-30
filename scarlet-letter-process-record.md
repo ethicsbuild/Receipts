@@ -290,11 +290,20 @@ Gage locked the essay by answering three questions from Claude:
 - **The closing line** ("The shame was never in needing the help. It was in pretending I didn't."). Claude flagged it as its own line and the kind of neat button Gage had rejected in draft one, and recommended cutting it. Gage kept it.
 - **"I journaled as a kid."** Claude flagged that Gage had not said "as a kid." Gage confirmed it is true.
 
-Draft two was locked with no further changes. The only additions for publication are Gage's standing disclosure line ("Human for the seeing, the seeding and the conducting. Lumen for the research and words." Lumen is his name for the Claude he works with) with a link to this record, and a cover image Claude drew: a graded test with his name, a circled red A+, and a handwritten answer to "Who made this page? Show your work." that says the machine drew the page and wrote the words.
+Draft two was locked with no further changes from Claude. What actually went live on September 26 differs from this record in two places, found on September 30 when the published text was compared line by line before anchoring it:
+
+- **Gage's own edit.** He changed "future me, future somebody, question mark" to "future me, future somebody…?" when he posted it.
+- **The footer.** The published footer is Claude's first draft: "Claude wrote the words. The seed, the seeing, and the conducting are mine," with a link to this record. An earlier version of this record said the footer was Gage's standing line ("Human for the seeing, the seeding and the conducting. Lumen for the research and words"). That was wrong. Claude described what it had prepared, not what was published. Lumen is Gage's name for the Claude he works with.
+
+After publishing, Gage ruled that "the words are the machine's" is not true: most lines start as his spoken words. The share posts on LinkedIn and Facebook say that instead. The essay and its footer still carry the older line, as published.
+
+The cover image, drawn by Claude, is a graded test with his name, a circled red A+, and a handwritten answer to "Who made this page? Show your work."
+
+An exact snapshot of the published text is in [published/the-scarlet-letter.html](published/the-scarlet-letter.html).
 
 ## Status
 
-- The essay is final: draft two, above, unchanged.
+- The essay is final: draft two, above, with the two differences noted under Finalizing.
 - Published September 26, 2026: https://gagecasswoodle.substack.com/p/the-scarlet-letter
 - Ruled September 25: the child with the accommodation is not identified, in the essay or in this record.
 - Home: this public GitHub repository. Links from Substack, LinkedIn, and Facebook point directly to this file, not to the repo.
