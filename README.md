@@ -21,6 +21,14 @@ My spoken lines are transcribed as I said them, with the false starts and the sw
 |---|---|---|
 | [The Scarlet Letter](https://gagecasswoodle.substack.com/p/the-scarlet-letter) | September 26, 2026 | [scarlet-letter-process-record.md](scarlet-letter-process-record.md) |
 
+## Other records
+
+Receipts that aren't about a piece of writing, but about the work itself, including where it went wrong.
+
+| Record | Date | File |
+|---|---|---|
+| The E.D.A.I. shield says "watching." Almost. | October 8, 2026 | [edai-shield/edai-shield-record.md](edai-shield/edai-shield-record.md) |
+
 ## Anchored on Hedera
 
 Each record is fingerprinted on the Hedera public ledger, so anyone can check that it has not been changed since. This proves the files are unchanged. It does not prove they are complete or true.
