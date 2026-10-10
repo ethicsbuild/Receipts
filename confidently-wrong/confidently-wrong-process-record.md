@@ -389,4 +389,4 @@ Building this record caught one more, before the essay went live. Fitting, for t
 
 ## Status
 
-Draft, October 10, 2026. With my mother and sister for approval. Not published. Not anchored on Hedera.
+Published October 10, 2026, after my mother and my sister each read this redacted version and approved it. Not yet anchored on Hedera.

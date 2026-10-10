@@ -20,6 +20,16 @@ My spoken lines are transcribed as I said them, with the false starts and the sw
 | Piece | Published | Record |
 |---|---|---|
 | [The Scarlet Letter](https://gagecasswoodle.substack.com/p/the-scarlet-letter) | September 26, 2026 | [scarlet-letter-process-record.md](scarlet-letter-process-record.md) |
+| Confidently Wrong About a Toilet | October 2026 | [confidently-wrong/confidently-wrong-process-record.md](confidently-wrong/confidently-wrong-process-record.md) (redacted; see the note at the top of the record) |
+
+## Reading the records
+
+Each record also has a page where the two voices look different: a person's words in a book typeface, the machine's in a code typeface. My mother asked for that, so you never have to guess who is talking.
+
+- [The Scarlet Letter](https://ethicsbuild.github.io/Receipts/published/scarlet-letter-process-record.html)
+- [Confidently Wrong About a Toilet](https://ethicsbuild.github.io/Receipts/published/confidently-wrong-process-record.html)
+
+The .md files are the records of reference. The styled pages are the same text, formatted.
 
 ## Other records
 
