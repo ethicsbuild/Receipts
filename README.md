@@ -63,3 +63,4 @@ When I was a kid I dictated my schoolwork and felt like a fraud every time the A
 If you want to argue about whether this counts as writing, good. That's the conversation I want to have in public.
 
 Gage Woodle
+| Field Test 001: status and outreach to TypeSafe | October 13, 2026 | [field-test-001/status-2026-10-13.md](field-test-001/status-2026-10-13.md), [field-test-001/typesafe-outreach.md](field-test-001/typesafe-outreach.md) |
