@@ -51,6 +51,7 @@ Topic [0.0.10897644](https://hashscan.io/mainnet/topic/0.0.10897644), "Proof of 
 | Piece | Message | Timestamp (UTC) | Version anchored |
 |---|---|---|---|
 | The Scarlet Letter | [#1](https://hashscan.io/mainnet/topic/0.0.10897644) | 2026-09-30 18:35:17 | commit b3158be |
+| A Drone With Hands | [#3](https://hashscan.io/mainnet/topic/0.0.10897644) | 2026-10-14 22:00:24 | commit 27c232b |
 
 Message #2 (18:35:26) is an identical duplicate of #1, posted by mistake when a script was re-run before the first post showed up on the network. It changes nothing; #1 is the anchor.
 
@@ -58,6 +59,11 @@ To check: download the record and the published snapshot at commit b3158be and c
 
 - scarlet-letter-process-record.md: aa0d134f9a99c15f4f5f094ffcd668a989f831d3adbf39109069704a9b7c8b4a
 - published/the-scarlet-letter.html: 1afb854d33731eefb6460ead830fcbaa118a1868595be762f87cd3ef49d59a91
+
+For A Drone With Hands, at commit 27c232b:
+
+- a-drone-with-hands/a-drone-with-hands-process-record.md: 44e5ae0623c16a73889d8c6e94f8581859377ab59cb987063cac62b7b8d644ce
+- published/a-drone-with-hands-process-record.html: 032b5c7858cee88c93527e7830aca41d041f3ea56ea526a04dbe2ade63ab09d3
 
 ## Why
 
