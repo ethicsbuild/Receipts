@@ -502,4 +502,4 @@ One thing is carried as contested rather than verified: the reading of BGH 3 StR
 
 ## Status
 
-Drafted October 14, 2026. The essay is not yet published. This record is not yet anchored on Hedera. Gage's sister approved being quoted in the essay; she has not yet been asked to approve this record, which quotes nothing of hers beyond the essay's five lines and names nothing about her.
+Essay published October 14, 2026, on Substack under Gage's own name. This record was published the same day, before the essay went live. Not yet anchored on Hedera. Gage's sister approved being quoted in the essay; she has not yet been asked to approve this record, which quotes nothing of hers beyond the essay's five lines and names nothing about her.
