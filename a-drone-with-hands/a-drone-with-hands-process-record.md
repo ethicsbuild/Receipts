@@ -6,7 +6,7 @@ Recorded October 14, 2026. Gage Woodle and Claude (Anthropic), in one chat on th
 
 ## What this is
 
-This is the receipt for the essay "A Drone With Hands," about the Cologne robot case of October 10 to 11, 2026. The essay holds two conflicting readings of German law on purpose, quotes Gage's sister from a recorded phone call, and credits a LinkedIn post for its courtroom frame. This record shows where each of those came from, every source that was opened, the first draft before any of Gage's rulings, and the three places where the machine or the draft got something wrong before publication.
+This is the receipt for the essay ["A Drone With Hands,"](https://gagecasswoodle.substack.com/p/a-drone-with-hands) about the Cologne robot case of October 10 to 11, 2026. The essay holds two conflicting readings of German law on purpose, quotes Gage's sister from a recorded phone call, and credits a LinkedIn post for its courtroom frame. This record shows where each of those came from, every source that was opened, the first draft before any of Gage's rulings, and the three places where the machine or the draft got something wrong before publication.
 
 ## What was removed, and why
 
@@ -502,4 +502,4 @@ One thing is carried as contested rather than verified: the reading of BGH 3 StR
 
 ## Status
 
-Essay published October 14, 2026, on Substack under Gage's own name. This record was published the same day, before the essay went live. Not yet anchored on Hedera. Gage's sister approved being quoted in the essay; she has not yet been asked to approve this record, which quotes nothing of hers beyond the essay's five lines and names nothing about her.
+Essay published October 14, 2026, on Substack under Gage's own name: [https://gagecasswoodle.substack.com/p/a-drone-with-hands](https://gagecasswoodle.substack.com/p/a-drone-with-hands). This record was published the same day, before the essay went live. Not yet anchored on Hedera. Gage's sister approved being quoted in the essay; she has not yet been asked to approve this record, which quotes nothing of hers beyond the essay's five lines and names nothing about her.
