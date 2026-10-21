@@ -132,7 +132,7 @@ The BGH decision cited under possibility one was not opened. The essay carries t
 >
 > E.D.A.I. and Proof of Life are stated at true tier: one sealed record on the ledger, covenant designed this week, no code. The draft says so twice. If that reads as too much hedging for a Substack, we cut one, not both.
 >
-> Open for your ruling: byline (own name like the LinkedIn post, or Roan, which adds a prescription line), and the last line, which I left to you because mine lands too clean.
+> Open for your ruling: byline [options removed], and the last line, which I left to you because mine lands too clean.
 
 [Record note] The file delivered here is draft one, reproduced in full in the section "Draft one" below.
 
@@ -382,7 +382,7 @@ The BGH decision cited under possibility one was not opened. The essay carries t
 > WORKING TITLE: A Drone With Hands
 > Alternate: The Moral Buffer
 >
-> Byline: not yet ruled (own name, as the LinkedIn post was, or Roan Wilder). If Roan, a prescription line goes above the first paragraph; none is written here.
+> Byline: not yet ruled. [A detail removed.]
 >
 > Placeholders you must fill or cut before this goes anywhere are in [BRACKETS]. There are three.
 >
@@ -502,4 +502,4 @@ One thing is carried as contested rather than verified: the reading of BGH 3 StR
 
 ## Status
 
-Essay published October 14, 2026, on Substack under Gage's own name: [https://gagecasswoodle.substack.com/p/a-drone-with-hands](https://gagecasswoodle.substack.com/p/a-drone-with-hands). This record was published the same day, before the essay went live. Anchored on Hedera the same day: topic 0.0.10897644, message #3, 2026-10-14 22:00:24 UTC, fingerprinting the files as they stood at commit 27c232b. This status line was written after the anchor, so the file you are reading differs from the anchored version by this sentence; the README holds the hashes. Gage's sister approved being quoted in the essay; she has not yet been asked to approve this record, which quotes nothing of hers beyond the essay's five lines and names nothing about her.
+Essay published October 14, 2026, on Substack under Gage's own name: [https://gagecasswoodle.substack.com/p/a-drone-with-hands](https://gagecasswoodle.substack.com/p/a-drone-with-hands). This record was published the same day, before the essay went live. Anchored on Hedera the same day: topic 0.0.10897644, message #3, 2026-10-14 22:00:24 UTC, fingerprinting the files as they stood at commit 27c232b. This status line was written after the anchor, so the file you are reading differs from the anchored version by this sentence and by details redacted afterward, marked in brackets; the README holds the hashes. Gage's sister approved being quoted in the essay; she has not yet been asked to approve this record, which quotes nothing of hers beyond the essay's five lines and names nothing about her.

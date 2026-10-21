@@ -21,7 +21,7 @@ This is the receipt for the essay "The Scarlet Letter." The essay says that anyo
 - The scarlet letter came from Gage. Claude cut him off mid-thought, and he made Claude stop and let him finish. The story he finished, the A-plus read aloud and carried back to his seat in shame, became the spine of the essay.
 - The Hawthorne connection was Claude's. The question it raised, whether disclosure is choosing the mark or confessing to escape it, was answered by Gage: both, at once.
 - The idea of publishing transcripts with the book was Gage's, from an earlier conversation. Performance as commitment, the cold mirror, was Gage's. "Sacrifice" was Gage's word.
-- The decision to publish under his own name and not as Roan Wilder was Claude's recommendation, and Gage accepted it.
+- The decision to publish under his own name [a detail removed] was Claude's recommendation, and Gage accepted it.
 - Claude's first draft was in Claude's own literary cadence. Gage rejected it: "don't follow your literary formats." The second draft was rebuilt from his spoken lines. Some of those lines are still Claude's paraphrase, not his words. The list is at the end.
 
 ---
@@ -127,13 +127,13 @@ So here's where I think this lands as a piece. The spine is: the scarlet letter,
 
 Want to keep pulling the thread, or should I stage this as a draft while it's hot?
 
-**Gage:** Oh, let's definitely draft it because I feel like this needs to be the second piece that goes out before any of the others. And I am kind of battling if it needs to go out with Roan also.
+**Gage:** Oh, let's definitely draft it because I feel like this needs to be the second piece that goes out before any of the others. [A sentence removed.]
 
-**Claude:** Good, so the pieces line up. Your Roan Wilder line is already set: "Human for the seeing, the seeding, and the refusal. Claude for the research and the words." That's the WILDER WORDS voice, and it's plain and already public.
+**Claude:** Good, so the pieces line up. [A passage removed.]
 
-Here's my read on the Roan question. This piece shouldn't go out under Roan. Roan is the anonymous fiction voice, the mask. This piece is the opposite of a mask. It's the scarlet letter chosen, the special-ed kid, your mum at the keyboard, your [child's] accommodation. That's Gage Woodle, under his own name. The whole power of it is that a real person with a real face is standing up to get the A plus.
+[A passage removed.] It's the scarlet letter chosen, the special-ed kid, your mum at the keyboard, your [child's] accommodation. That's Gage Woodle, under his own name. The whole power of it is that a real person with a real face is standing up to get the A plus.
 
-Where Roan comes in is as a footnote inside the piece, not the byline. You can point at Roan and say "I even set the disclosure line on my fiction the same way," as evidence you practice this everywhere. Roan becomes proof, not author.
+[A passage removed.]
 
 So: this is the second Gage Woodle essay, after "Hands on the Wheel," before the other seven. It's the "how I write and why I say so" piece we flagged.
 
@@ -183,7 +183,7 @@ Give me a moment to build it.
 >
 > And I've made my peace with the fact that I perform for the camera. I always have. I journaled as a kid like someone would read it someday. But I've stopped thinking of that as fake. The camera is what holds me to my word. If I say I'll show the receipts, and I know you're watching, then I have to actually show them. The witness is the thing that makes me walk the walk.
 >
-> I do this everywhere now, not just here. I write fiction under another name, and even there the disclosure line says the same thing: human for the seeing, the seeding, and the refusal; the machine for the words. No mask about the method, even behind a mask.
+> [A passage removed.]
 >
 > So no, I'm not going to walk back to my seat and hide the red letter anymore. I'm going to hold it up. Here it is. Here's exactly how it was made. Read the whole thing if you want to.
 >
@@ -191,7 +191,7 @@ Give me a moment to build it.
 >
 > Gage
 
-**Claude:** That's draft one. It's under your name, Roan sits inside it as evidence, and the four beats are all there with the sacrifice named near the end. What lands wrong, and what do you want to push on?
+**Claude:** That's draft one. It's under your name, [a detail removed], and the four beats are all there with the sacrifice named near the end. What lands wrong, and what do you want to push on?
 
 **Gage:** And remember, we started this whole voice conversation so that way you could continue to learn my voice. Right. So, yes, you're going to go in your four beat, you know, uh, format, but don't follow your um, literary formats.
 
@@ -293,7 +293,7 @@ Gage locked the essay by answering three questions from Claude:
 Draft two was locked with no further changes from Claude. What actually went live on September 26 differs from this record in two places, found on September 30 when the published text was compared line by line before anchoring it:
 
 - **Gage's own edit.** He changed "future me, future somebody, question mark" to "future me, future somebody…?" when he posted it.
-- **The footer.** The published footer is Claude's first draft: "Claude wrote the words. The seed, the seeing, and the conducting are mine," with a link to this record. An earlier version of this record said the footer was Gage's standing line ("Human for the seeing, the seeding and the conducting. Lumen for the research and words"). That was wrong. Claude described what it had prepared, not what was published. Lumen is Gage's name for the Claude he works with.
+- **The footer.** The published footer is Claude's first draft: "Claude wrote the words. The seed, the seeing, and the conducting are mine," with a link to this record. An earlier version of this record said the footer was a different line [quoted line removed]. That was wrong. Claude described what it had prepared, not what was published. Lumen is Gage's name for the Claude he works with.
 
 After publishing, Gage ruled that "the words are the machine's" is not true: most lines start as his spoken words. The share posts on LinkedIn and Facebook say that instead. The essay and its footer still carry the older line, as published.
 
@@ -307,3 +307,4 @@ An exact snapshot of the published text is in [published/the-scarlet-letter.html
 - Published September 26, 2026: https://gagecasswoodle.substack.com/p/the-scarlet-letter
 - Ruled September 25: the child with the accommodation is not identified, in the essay or in this record.
 - Home: this public GitHub repository. Links from Substack, LinkedIn, and Facebook point directly to this file, not to the repo.
+- Some details were redacted after this record was anchored. They are marked in brackets.
