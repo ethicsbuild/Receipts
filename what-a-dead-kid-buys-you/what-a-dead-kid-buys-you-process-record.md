@@ -483,7 +483,7 @@ Five things were wrong, or not yet right, between the LinkedIn post and the draf
 
 Essay published October 21, 2026, on Substack under Gage's own name: [https://gagecasswoodle.substack.com/p/what-a-dead-kid-buys-you](https://gagecasswoodle.substack.com/p/what-a-dead-kid-buys-you). This record was published the same day, before the essay went live.
 
-The published essay is draft one with two changes, both Gage's rulings. The subtitle is "Here's the receipt. Nobody's name is on it.," the first of a second set of four the machine offered after he turned down the first set. The footer is the 988 line followed by the receipts link; his standing disclosure runs in Substack's "How I make this" box, as on his other pieces, not in the body.
+The published essay is draft one with two changes, both Gage's rulings. The subtitle is "Here's the receipt. Nobody's name is on it." It was the first of a second set of four the machine offered, after he turned down the first set. The footer is the 988 line followed by the receipts link; his standing disclosure runs in Substack's "How I make this" box, as on his other pieces, not in the body.
 
 The header image was made by Gage in an image generator from prompts the machine wrote: a black box printing the receipt and feeding it back into itself, the signature line empty. Every figure printed on it comes from the sources above. The machine checked each row of each version for spelling and alignment before he chose one. Two earlier versions were set aside because the labels and values drifted out of line.
 
