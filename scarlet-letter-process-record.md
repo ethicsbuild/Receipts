@@ -12,7 +12,7 @@ This is the receipt for the essay "The Scarlet Letter." The essay says that anyo
 
 - Gage's lines are his speech as the voice transcription caught it. They are not cleaned up. The false starts and repeated words are his.
 - Claude's lines are verbatim.
-- Nothing has been removed. One detail has been changed: which of Gage's kids has the accommodation. Every place that said so, his words and Claude's, now says "child" or "kid," in square brackets where it alters a spoken line. That is his child's information, not his, and he chose to protect it.
+- A few passages were removed after publication, each marked in square brackets. One detail has been changed: which of Gage's kids has the accommodation. Every place that said so, his words and Claude's, now says "child" or "kid," in square brackets where it alters a spoken line. That is his child's information, not his, and he chose to protect it.
 - A few notes are marked [Record note]. They sit outside the conversation and say what happened that the transcript alone would not show.
 
 ## What the record shows, in brief
