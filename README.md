@@ -22,6 +22,7 @@ My spoken lines are transcribed as I said them, with the false starts and the sw
 | [The Scarlet Letter](https://gagecasswoodle.substack.com/p/the-scarlet-letter) | September 26, 2026 | [scarlet-letter-process-record.md](scarlet-letter-process-record.md) |
 | Confidently Wrong About a Toilet | October 2026 | [confidently-wrong/confidently-wrong-process-record.md](confidently-wrong/confidently-wrong-process-record.md) (redacted; see the note at the top of the record) |
 | [A Drone With Hands](https://gagecasswoodle.substack.com/p/a-drone-with-hands) | October 14, 2026 | [a-drone-with-hands/a-drone-with-hands-process-record.md](a-drone-with-hands/a-drone-with-hands-process-record.md) (redacted; the phone call it draws on is not published) |
+| What a Dead Kid Buys You | Not yet published | [what-a-dead-kid-buys-you/what-a-dead-kid-buys-you-process-record.md](what-a-dead-kid-buys-you/what-a-dead-kid-buys-you-process-record.md) (one passage about a later piece held back) |
 
 ## Reading the records
 
@@ -30,6 +31,7 @@ Each record also has a page where the two voices look different: a person's word
 - [The Scarlet Letter](https://ethicsbuild.github.io/Receipts/published/scarlet-letter-process-record.html)
 - [Confidently Wrong About a Toilet](https://ethicsbuild.github.io/Receipts/published/confidently-wrong-process-record.html)
 - [A Drone With Hands](https://ethicsbuild.github.io/Receipts/published/a-drone-with-hands-process-record.html)
+- [What a Dead Kid Buys You](https://ethicsbuild.github.io/Receipts/published/what-a-dead-kid-buys-you-process-record.html)
 
 The .md files are the records of reference. The styled pages are the same text, formatted.
 
