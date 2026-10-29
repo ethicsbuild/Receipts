@@ -87,6 +87,28 @@ For What a Dead Kid Buys You, at commit e8ad4ed:
 - what-a-dead-kid-buys-you/what-a-dead-kid-buys-you-process-record.md: a633971a5b59e2dbceb4028ab88dff67562a4409a5cf62bd99e71119898a36f0
 - published/what-a-dead-kid-buys-you-process-record.html: d468ac260a904d3ef0f401d8691ae160263c1899a8fcf788d58e79a07aee7bf5
 
+### Records that are not pieces
+
+The repo also holds receipts about the work itself. Those are anchored too, with a type that says what they are instead of borrowing the fields a published piece uses.
+
+| Record | Topic | Message | Timestamp (UTC) | Version anchored |
+|---|---|---|---|---|
+| Receipt: the E.D.A.I. shield says "watching." Almost. | [0.0.10897644](https://hashscan.io/mainnet/topic/0.0.10897644) | #10 | 2026-10-29 17:25:32 | commit fa58871 |
+| Field Test 001: outreach addendum | [0.0.9376001](https://hashscan.io/mainnet/topic/0.0.9376001) | #8 | 2026-10-29 17:26:24 | commit ece87a2 |
+
+The shield receipt went up as a `work-record`: the same spine as a piece record, without the fields for a published essay, because it documents a build and what that build got wrong.
+
+Field Test 001 has a topic of its own, [0.0.9376001](https://hashscan.io/mainnet/topic/0.0.9376001), because that test is a chain and not a single record. The protocol was pre-registered there on September 30, 2026, before the test ran. On October 13 came the status, an erratum for a harness fix made before any request was sent, a seal for each of the two runs, the analysis code fingerprinted before it had opened the answer key, and a seal over the results themselves, which stay unpublished. The outreach addendum is sequence 8 on that chain, posted as an `erratum`. The files the earlier messages froze were not touched to add it, which is why the addendum is a separate note rather than an edit.
+
+For the E.D.A.I. shield receipt, at commit fa58871:
+
+- edai-shield/edai-shield-record.md: 2622d82b65d27e10ac0645e7b54e641ca223cdfcb4a1cc85aeae5a82884ad49e
+- edai-shield/edai-logo.png: 029dff44adfd7359e0947656083ce0a2488088c05b9271ad7a6e78ab1998c5fc
+
+For the Field Test 001 outreach addendum, at commit ece87a2:
+
+- field-test-001/typesafe-outreach-addendum-2026-10-13.md: 4676709bb7362d8d0f9852d03e7df35e4f80f0bc45b60417ee33d94cf4f8277f
+
 ## Why
 
 When I was a kid I dictated my schoolwork and felt like a fraud every time the A-plus came back. I'm not hiding the help this time. This is the whole process, open, so you don't have to take my word for it.

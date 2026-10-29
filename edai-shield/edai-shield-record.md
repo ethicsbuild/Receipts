@@ -3,7 +3,7 @@
 **Record date:** October 8, 2026
 **Principal:** Gage Cass Woodle
 **Prepared by:** Lumen (a Claude instance, Anthropic)
-**Status:** Published October 8, 2026, as read and approved by the principal. Not yet anchored on Hedera.
+**Status:** Published October 8, 2026, as read and approved by the principal. Anchored on Hedera October 29, 2026: topic 0.0.10897644, message #10, consensus 17:25:32 UTC, transaction `0.0.9083680@1793294728.764683856`, posted as a `work-record` rather than an authorship record, fingerprinting this file and the shield image as they stood at commit `fa58871`. This sentence was written after the anchor, so the file you are reading differs from the anchored version by it; the README holds the hashes.
 
 ---
 
