@@ -56,8 +56,9 @@ Topic [0.0.10897644](https://hashscan.io/mainnet/topic/0.0.10897644), "Proof of 
 |---|---|---|---|
 | The Scarlet Letter | [#1](https://hashscan.io/mainnet/topic/0.0.10897644) | 2026-09-30 18:35:17 | commit b3158be |
 | A Drone With Hands | [#3](https://hashscan.io/mainnet/topic/0.0.10897644) | 2026-10-14 22:00:24 | commit 27c232b |
+| What They Are Afraid Of | [#7](https://hashscan.io/mainnet/topic/0.0.10897644) | 2026-10-29 17:04:08 | commit 8bfa2da |
 
-Message #2 (18:35:26) is an identical duplicate of #1, posted by mistake when a script was re-run before the first post showed up on the network. It changes nothing; #1 is the anchor.
+Messages #2, #4, #5 and #6 are duplicates, each one byte for byte identical to the record before it: #2 duplicates #1, and #4, #5 and #6 duplicate #3. They were posted when a script was re-run before the first post had shown up on the network. They change nothing, and #1, #3 and #7 are the anchors. The three duplicates of #3 were found on October 29, 2026, while the next record was being anchored. Until then this README and the A Drone With Hands process record both said one message went up that day. That was wrong, and this paragraph is the correction.
 
 To check: download the record and the published snapshot at commit b3158be and compare their SHA-256 hashes with the ones in the message.
 
@@ -68,6 +69,11 @@ For A Drone With Hands, at commit 27c232b:
 
 - a-drone-with-hands/a-drone-with-hands-process-record.md: 44e5ae0623c16a73889d8c6e94f8581859377ab59cb987063cac62b7b8d644ce
 - published/a-drone-with-hands-process-record.html: 032b5c7858cee88c93527e7830aca41d041f3ea56ea526a04dbe2ade63ab09d3
+
+For What They Are Afraid Of, at commit 8bfa2da:
+
+- what-they-are-afraid-of/what-they-are-afraid-of-process-record.md: a821b97de5491ceb755c495c2bc78870a681ad3d1dcd10fec716af58781cafa7
+- published/what-they-are-afraid-of-process-record.html: a4f8675b7eec6fce71c21d70a666881dc6ae6c1f9c82ac865e7d2572e5d8f2b1
 
 ## Why
 

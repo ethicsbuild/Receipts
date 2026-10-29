@@ -920,9 +920,9 @@ This happened because Gage refused the word "cannot." The record should say so.
 - Whether the links go into the essay.
 - The subtitle, locked but not yet used.
 
-**Done since:** the receipts line at the foot of the essay carries this record's URL, and the record is pushed.
+**Done since:** the receipts line at the foot of the essay carries this record's URL, and the record is pushed. Of the list above, five items were ruled the same day. Both film quotations were replaced with lines read off the subtitle track, one of them an invented quotation that had to be retracted. The lawsuit was opened and the essay's claim about it held exactly. The faith closing went in, Burning Man is named, and the garbled sentence was rebuilt from what he meant by it. The links went in, 58 of them on the live page. The subtitle is on the published piece. Two items were never ruled either way, and both stayed out by default: the hardware material, and the word "cover-up." One section was cut at the door on his call, after the push had been queued. The essay was published, shared on LinkedIn and Facebook, and this record anchored, all on October 29.
 
-**Anchoring:** Gage posts the fingerprint to Hedera topic 0.0.10897644 from his own machine, with his own key. Not done.
+**Anchoring:** done the day of publication. Hedera topic 0.0.10897644, message #7, consensus 2026-10-29 17:04:08 UTC, transaction `0.0.9083680@1793293444.356192233`, fingerprinting the two files as they stood at commit `8bfa2da`. The post was made from Gage's own machine on his instruction, with his own key: the key loads from a local .env file, is never read by the machine that ran the script, and does not leave that computer. One message, and the only one on the topic carrying this commit, checked against the ledger afterwards rather than assumed. This paragraph was written after the anchor, so the file you are reading differs from the anchored version by it; the README holds the hashes.
 
 ---
 
