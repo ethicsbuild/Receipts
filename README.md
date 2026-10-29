@@ -20,7 +20,7 @@ My spoken lines are transcribed as I said them, with the false starts and the sw
 | Piece | Published | Record |
 |---|---|---|
 | [The Scarlet Letter](https://gagecasswoodle.substack.com/p/the-scarlet-letter) | September 26, 2026 | [scarlet-letter-process-record.md](scarlet-letter-process-record.md) |
-| Confidently Wrong About a Toilet | October 2026 | [confidently-wrong/confidently-wrong-process-record.md](confidently-wrong/confidently-wrong-process-record.md) (redacted; see the note at the top of the record) |
+| [Confidently Wrong About a Toilet](https://gagecasswoodle.substack.com/p/confidently-wrong-about-a-toilet) | October 10, 2026 | [confidently-wrong/confidently-wrong-process-record.md](confidently-wrong/confidently-wrong-process-record.md) (redacted; see the note at the top of the record) |
 | [A Drone With Hands](https://gagecasswoodle.substack.com/p/a-drone-with-hands) | October 14, 2026 | [a-drone-with-hands/a-drone-with-hands-process-record.md](a-drone-with-hands/a-drone-with-hands-process-record.md) (redacted; the phone call it draws on is not published) |
 | [What a Dead Kid Buys You](https://gagecasswoodle.substack.com/p/what-a-dead-kid-buys-you) | October 21, 2026 | [what-a-dead-kid-buys-you/what-a-dead-kid-buys-you-process-record.md](what-a-dead-kid-buys-you/what-a-dead-kid-buys-you-process-record.md) (one passage about a later piece held back) |
 | [What They Are Afraid Of](https://gagecasswoodle.substack.com/p/what-they-are-afraid-of) | October 29, 2026 | [what-they-are-afraid-of/what-they-are-afraid-of-process-record.md](what-they-are-afraid-of/what-they-are-afraid-of-process-record.md) (one day of the conversation is lost and the record says where) |
@@ -57,8 +57,10 @@ Topic [0.0.10897644](https://hashscan.io/mainnet/topic/0.0.10897644), "Proof of 
 | The Scarlet Letter | [#1](https://hashscan.io/mainnet/topic/0.0.10897644) | 2026-09-30 18:35:17 | commit b3158be |
 | A Drone With Hands | [#3](https://hashscan.io/mainnet/topic/0.0.10897644) | 2026-10-14 22:00:24 | commit 27c232b |
 | What They Are Afraid Of | [#7](https://hashscan.io/mainnet/topic/0.0.10897644) | 2026-10-29 17:04:08 | commit 8bfa2da |
+| Confidently Wrong About a Toilet | [#8](https://hashscan.io/mainnet/topic/0.0.10897644) | 2026-10-29 17:12:46 | commit bec5ffd |
+| What a Dead Kid Buys You | [#9](https://hashscan.io/mainnet/topic/0.0.10897644) | 2026-10-29 17:13:29 | commit e8ad4ed |
 
-Messages #2, #4, #5 and #6 are duplicates, each one byte for byte identical to the record before it: #2 duplicates #1, and #4, #5 and #6 duplicate #3. They were posted when a script was re-run before the first post had shown up on the network. They change nothing, and #1, #3 and #7 are the anchors. The three duplicates of #3 were found on October 29, 2026, while the next record was being anchored. Until then this README and the A Drone With Hands process record both said one message went up that day. That was wrong, and this paragraph is the correction.
+Messages #2, #4, #5 and #6 are duplicates, each one byte for byte identical to the record before it: #2 duplicates #1, and #4, #5 and #6 duplicate #3. They were posted when a script was re-run before the first post had shown up on the network. They change nothing, and #1, #3, #7, #8 and #9 are the anchors. The three duplicates of #3 were found on October 29, 2026, while the next record was being anchored. Until then this README and the A Drone With Hands process record both said one message went up that day. That was wrong, and this paragraph is the correction.
 
 To check: download the record and the published snapshot at commit b3158be and compare their SHA-256 hashes with the ones in the message.
 
@@ -74,6 +76,16 @@ For What They Are Afraid Of, at commit 8bfa2da:
 
 - what-they-are-afraid-of/what-they-are-afraid-of-process-record.md: a821b97de5491ceb755c495c2bc78870a681ad3d1dcd10fec716af58781cafa7
 - published/what-they-are-afraid-of-process-record.html: a4f8675b7eec6fce71c21d70a666881dc6ae6c1f9c82ac865e7d2572e5d8f2b1
+
+For Confidently Wrong About a Toilet, at commit bec5ffd:
+
+- confidently-wrong/confidently-wrong-process-record.md: 577ecc969cd5fef390c8cac5a94a14be2fedc47c907e3ffdb62a57d5a94bb565
+- published/confidently-wrong-process-record.html: 5f57e154291ed42d3acdad1dc5b6b3a15694fc35b5d18d06fb873f94b3e56d23
+
+For What a Dead Kid Buys You, at commit e8ad4ed:
+
+- what-a-dead-kid-buys-you/what-a-dead-kid-buys-you-process-record.md: a633971a5b59e2dbceb4028ab88dff67562a4409a5cf62bd99e71119898a36f0
+- published/what-a-dead-kid-buys-you-process-record.html: d468ac260a904d3ef0f401d8691ae160263c1899a8fcf788d58e79a07aee7bf5
 
 ## Why
 

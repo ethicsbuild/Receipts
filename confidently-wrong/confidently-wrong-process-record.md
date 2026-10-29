@@ -389,4 +389,4 @@ Building this record caught one more, before the essay went live. Fitting, for t
 
 ## Status
 
-Published October 10, 2026, after my mother and my sister each read this redacted version and approved it. Not yet anchored on Hedera.
+Published October 10, 2026, after my mother and my sister each read this redacted version and approved it. Anchored on Hedera October 29, 2026: topic 0.0.10897644, message #8, consensus 17:12:46 UTC, transaction `0.0.9083680@1793293961.839125919`, fingerprinting both files as they stood at commit `bec5ffd`, which is the commit that first published them. This sentence was written after the anchor, so the file you are reading differs from the anchored version by it; the README holds the hashes.

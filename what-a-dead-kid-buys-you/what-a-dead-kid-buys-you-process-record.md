@@ -487,4 +487,4 @@ The published essay is draft one with two changes, both Gage's rulings. The subt
 
 The header image was made by Gage in an image generator from prompts the machine wrote: a black box printing the receipt and feeding it back into itself, the signature line empty. Every figure printed on it comes from the sources above. The machine checked each row of each version for spelling and alignment before he chose one. Two earlier versions were set aside because the labels and values drifted out of line.
 
-Not yet anchored on Hedera.
+Anchored on Hedera October 29, 2026: topic 0.0.10897644, message #9, consensus 17:13:29 UTC, transaction `0.0.9083680@1793293964.295832013`, fingerprinting both files as they stood at commit `e8ad4ed`, where the fingerprint had been prepared on October 21 and then left unposted. This sentence was written after the anchor, so the file you are reading differs from the anchored version by it; the README holds the hashes.
