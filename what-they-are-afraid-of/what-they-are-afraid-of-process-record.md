@@ -924,6 +924,8 @@ This happened because Gage refused the word "cannot." The record should say so.
 
 **Anchoring:** done the day of publication. Hedera topic 0.0.10897644, message #7, consensus 2026-10-29 17:04:08 UTC, transaction `0.0.9083680@1793293444.356192233`, fingerprinting the two files as they stood at commit `8bfa2da`. The post was made from Gage's own machine on his instruction, with his own key: the key loads from a local .env file, is never read by the machine that ran the script, and does not leave that computer. One message, and the only one on the topic carrying this commit, checked against the ledger afterwards rather than assumed. This paragraph was written after the anchor, so the file you are reading differs from the anchored version by it; the README holds the hashes.
 
+**Watch items since publication:** [watch.md](https://github.com/ethicsbuild/receipts/blob/main/what-they-are-afraid-of/watch.md), in this folder, is a running note of things that happen after the anchor and bear on what the essay claims. Its first entry, October 29, is the suspected cyberattack on commissary refrigeration, kept there rather than in the essay because it is suspected and not established. That file is not anchored, because it changes. This paragraph also postdates the anchor.
+
 ---
 
 This record is longer than the essay. That is the right ratio for a piece whose argument is that almost nobody opens the actual document.
