@@ -23,6 +23,7 @@ My spoken lines are transcribed as I said them, with the false starts and the sw
 | Confidently Wrong About a Toilet | October 2026 | [confidently-wrong/confidently-wrong-process-record.md](confidently-wrong/confidently-wrong-process-record.md) (redacted; see the note at the top of the record) |
 | [A Drone With Hands](https://gagecasswoodle.substack.com/p/a-drone-with-hands) | October 14, 2026 | [a-drone-with-hands/a-drone-with-hands-process-record.md](a-drone-with-hands/a-drone-with-hands-process-record.md) (redacted; the phone call it draws on is not published) |
 | [What a Dead Kid Buys You](https://gagecasswoodle.substack.com/p/what-a-dead-kid-buys-you) | October 21, 2026 | [what-a-dead-kid-buys-you/what-a-dead-kid-buys-you-process-record.md](what-a-dead-kid-buys-you/what-a-dead-kid-buys-you-process-record.md) (one passage about a later piece held back) |
+| What They Are Afraid Of | not yet published | [what-they-are-afraid-of/what-they-are-afraid-of-process-record.md](what-they-are-afraid-of/what-they-are-afraid-of-process-record.md) (one day of the conversation is lost and the record says where) |
 
 ## Reading the records
 
@@ -32,6 +33,7 @@ Each record also has a page where the two voices look different: a person's word
 - [Confidently Wrong About a Toilet](https://ethicsbuild.github.io/Receipts/published/confidently-wrong-process-record.html)
 - [A Drone With Hands](https://ethicsbuild.github.io/Receipts/published/a-drone-with-hands-process-record.html)
 - [What a Dead Kid Buys You](https://ethicsbuild.github.io/Receipts/published/what-a-dead-kid-buys-you-process-record.html)
+- [What They Are Afraid Of](https://ethicsbuild.github.io/Receipts/published/what-they-are-afraid-of-process-record.html)
 
 The .md files are the records of reference. The styled pages are the same text, formatted.
 
