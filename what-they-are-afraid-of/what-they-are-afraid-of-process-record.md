@@ -904,7 +904,7 @@ This happened because Gage refused the word "cannot." The record should say so.
 ---
 ## Status, true tier
 
-**Published:** nothing yet. The essay is not posted as this record is written.
+**Published:** October 29, 2026, at [gagecasswoodle.substack.com/p/what-they-are-afraid-of](https://gagecasswoodle.substack.com/p/what-they-are-afraid-of). 8,640 words on the page, 58 outbound source links, and the link back to this record at the foot. Checked on the live page rather than assumed from the paste.
 
 **Built:** the essay, at about 7,700 words, in its sixth written draft. A paste-ready HTML version and a phone paste page. A header image brief. A proofreading log. A verification note on the Anthropic report, claim by claim. A verification note on the film. This record. The September material, recovered and published to Notion from three rooms.
 
@@ -920,7 +920,7 @@ This happened because Gage refused the word "cannot." The record should say so.
 - Whether the links go into the essay.
 - The subtitle, locked but not yet used.
 
-**Not done, mine:** the receipts line at the foot of the essay still reads as a placeholder and gets this record's URL once it is pushed.
+**Done since:** the receipts line at the foot of the essay carries this record's URL, and the record is pushed.
 
 **Anchoring:** Gage posts the fingerprint to Hedera topic 0.0.10897644 from his own machine, with his own key. Not done.
 
