@@ -791,8 +791,12 @@ Eight things changed or need saying between the conversation, draft one, and the
 
 ## Status
 
-Not yet published. This record was pushed on November 4, 2026, at Gage's say, before the essay went live. That day he read the first version and ruled on it: he restored the exchange about his agreement with his family (turns 42 to 46) and the stretch on faith, technology and rest (turns 51 to 62), and replaced "I didn't get here alone" with his own answer.
+Essay published November 4, 2026, on Substack under Gage's own name: [https://gagecasswoodle.substack.com/p/the-janky-cart](https://gagecasswoodle.substack.com/p/the-janky-cart). This record was pushed the same day, before the essay went live.
 
-The essay as it stands is draft one with the changes listed above, the title "The Janky Cart," the subtitle "Presence over presents, in the age of perfect," Gage's photo of the cart as the header, and two section breaks. Its last line will carry the link to this record once it is pushed.
+Before it ran, Gage sent the essay to the friend whose daughter's story it tells and asked whether it was good to publish. The friend read it and said yes, by text, on November 4.
+
+The published essay is draft one with the changes listed above: the title "The Janky Cart," the subtitle "Presence over presents, in the age of perfect," Gage's photo of the cart as the header, two section breaks, and a last line linking to this record. His standing disclosure runs in Substack's "How I make this" box, as on his other pieces. The essay's own closing paragraph also says the words came through a machine.
+
+On November 4, after reading the first version of this record, Gage restored the exchange about his agreement with his family (turns 42 to 46) and the stretch on faith, technology and rest (turns 51 to 62), and replaced "I didn't get here alone" with his own answer.
 
 Not yet anchored on Hedera.
