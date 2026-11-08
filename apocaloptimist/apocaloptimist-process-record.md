@@ -969,8 +969,8 @@ The essay as published is draft three. These are the changes between the convers
 
 ## Status
 
-Not yet published. This record is pushed on November 8, 2026, before the essay goes live, as Gage asked ("Publish receipts," turn 62).
+Essay published November 8, 2026, on Substack under Gage's own name: [https://gagecasswoodle.substack.com/p/apocaloptimist](https://gagecasswoodle.substack.com/p/apocaloptimist). This record was pushed the same day, before the essay went live, as Gage asked ("Publish receipts," turn 62).
 
-The essay that will run is draft three. Item 5, the half-second line, is waiting on Gage.
+The published essay is draft three: the title "Apocaloptimist," the subtitle "Upgrade yourself. Then make them show their work.," a header image Gage generated from a written prompt, and a last line linking to this record. His standing disclosure runs in Substack's "How I make this" box, as on his other pieces.
 
-When the essay is live, this section will get the clean post link, and the record will be anchored on Hedera.
+Item 5, the half-second line, was put to Gage before he published. The essay ran with "that I've been turning over ever since," the machine's wording.
