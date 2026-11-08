@@ -799,4 +799,4 @@ The published essay is draft one with the changes listed above: the title "The J
 
 On November 4, after reading the first version of this record, Gage restored the exchange about his agreement with his family (turns 42 to 46) and the stretch on faith, technology and rest (turns 51 to 62), and replaced "I didn't get here alone" with his own answer.
 
-Not yet anchored on Hedera.
+**Anchoring:** done November 8, 2026, four days after publication. Hedera topic 0.0.10897644, message #12, consensus 2026-11-08 11:24:42 UTC, transaction `0.0.9083680@1794137077.618324346`, fingerprinting the two files as they stood at commit `c6b4544`. The files had not changed since November 4; the commit is simply the newest one that holds them. The post was made from Gage's own machine on his instruction, with his own key, which loads from a local file the machine running the script never reads. One message, checked against the ledger afterwards. This paragraph was written after the anchor, so the file you are reading differs from the anchored version by it; the README holds the hashes.

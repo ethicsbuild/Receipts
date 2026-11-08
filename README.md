@@ -64,6 +64,7 @@ Topic [0.0.10897644](https://hashscan.io/mainnet/topic/0.0.10897644), "Proof of 
 | Confidently Wrong About a Toilet | [#8](https://hashscan.io/mainnet/topic/0.0.10897644) | 2026-10-29 17:12:46 | commit bec5ffd |
 | What a Dead Kid Buys You | [#9](https://hashscan.io/mainnet/topic/0.0.10897644) | 2026-10-29 17:13:29 | commit e8ad4ed |
 | Apocaloptimist | [#11](https://hashscan.io/mainnet/topic/0.0.10897644) | 2026-11-08 11:22:42 | commit 07063f9 |
+| The Janky Cart | [#12](https://hashscan.io/mainnet/topic/0.0.10897644) | 2026-11-08 11:24:42 | commit c6b4544 |
 
 Messages #2, #4, #5 and #6 are duplicates, each one byte for byte identical to the record before it: #2 duplicates #1, and #4, #5 and #6 duplicate #3. They were posted when a script was re-run before the first post had shown up on the network. They change nothing, and #1, #3, #7, #8 and #9 are the anchors. The three duplicates of #3 were found on October 29, 2026, while the next record was being anchored. Until then this README and the A Drone With Hands process record both said one message went up that day. That was wrong, and this paragraph is the correction.
 
@@ -96,6 +97,11 @@ For Apocaloptimist, at commit 07063f9:
 
 - apocaloptimist/apocaloptimist-process-record.md: c53adf04763192722030e8dfb50ee69a9bf3c41587be6094551f0d425d1d52a1
 - published/apocaloptimist-process-record.html: ba3ea44143bbb025dd55b7e8e98eabbd6e153e613a74e7c9c31cf32518298e97
+
+For The Janky Cart, at commit c6b4544:
+
+- the-janky-cart/the-janky-cart-process-record.md: 41a42ef99ebb94d288137136d49853e39735aa94b6f601549fe76aaa42f5d4cf
+- published/the-janky-cart-process-record.html: 17ab4d3894d872f49adf3987c61ff2f357a8bf6fb2f6ead7f89b6a5dba976ff6
 
 ### Records that are not pieces
 
