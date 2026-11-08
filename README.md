@@ -25,6 +25,7 @@ My spoken lines are transcribed as I said them, with the false starts and the sw
 | [What a Dead Kid Buys You](https://gagecasswoodle.substack.com/p/what-a-dead-kid-buys-you) | October 21, 2026 | [what-a-dead-kid-buys-you/what-a-dead-kid-buys-you-process-record.md](what-a-dead-kid-buys-you/what-a-dead-kid-buys-you-process-record.md) (one passage about a later piece held back) |
 | [What They Are Afraid Of](https://gagecasswoodle.substack.com/p/what-they-are-afraid-of) | October 29, 2026 | [what-they-are-afraid-of/what-they-are-afraid-of-process-record.md](what-they-are-afraid-of/what-they-are-afraid-of-process-record.md) (one day of the conversation is lost and the record says where) |
 | [The Janky Cart](https://gagecasswoodle.substack.com/p/the-janky-cart) | November 4, 2026 | [the-janky-cart/the-janky-cart-process-record.md](the-janky-cart/the-janky-cart-process-record.md) (names replaced with roles; some personal details held back, and the record says where) |
+| Apocaloptimist | Not yet published | [apocaloptimist/apocaloptimist-process-record.md](apocaloptimist/apocaloptimist-process-record.md) (names replaced with roles; the three recordings it draws on are not published, and the record lists the lines it uses) |
 
 ## Reading the records
 
@@ -35,6 +36,8 @@ Each record also has a page where the two voices look different: a person's word
 - [A Drone With Hands](https://ethicsbuild.github.io/Receipts/published/a-drone-with-hands-process-record.html)
 - [What a Dead Kid Buys You](https://ethicsbuild.github.io/Receipts/published/what-a-dead-kid-buys-you-process-record.html)
 - [What They Are Afraid Of](https://ethicsbuild.github.io/Receipts/published/what-they-are-afraid-of-process-record.html)
+- [The Janky Cart](https://ethicsbuild.github.io/Receipts/published/the-janky-cart-process-record.html)
+- [Apocaloptimist](https://ethicsbuild.github.io/Receipts/published/apocaloptimist-process-record.html)
 
 The .md files are the records of reference. The styled pages are the same text, formatted.
 
