@@ -63,6 +63,7 @@ Topic [0.0.10897644](https://hashscan.io/mainnet/topic/0.0.10897644), "Proof of 
 | What They Are Afraid Of | [#7](https://hashscan.io/mainnet/topic/0.0.10897644) | 2026-10-29 17:04:08 | commit 8bfa2da |
 | Confidently Wrong About a Toilet | [#8](https://hashscan.io/mainnet/topic/0.0.10897644) | 2026-10-29 17:12:46 | commit bec5ffd |
 | What a Dead Kid Buys You | [#9](https://hashscan.io/mainnet/topic/0.0.10897644) | 2026-10-29 17:13:29 | commit e8ad4ed |
+| Apocaloptimist | [#11](https://hashscan.io/mainnet/topic/0.0.10897644) | 2026-11-08 11:22:42 | commit 07063f9 |
 
 Messages #2, #4, #5 and #6 are duplicates, each one byte for byte identical to the record before it: #2 duplicates #1, and #4, #5 and #6 duplicate #3. They were posted when a script was re-run before the first post had shown up on the network. They change nothing, and #1, #3, #7, #8 and #9 are the anchors. The three duplicates of #3 were found on October 29, 2026, while the next record was being anchored. Until then this README and the A Drone With Hands process record both said one message went up that day. That was wrong, and this paragraph is the correction.
 
@@ -90,6 +91,11 @@ For What a Dead Kid Buys You, at commit e8ad4ed:
 
 - what-a-dead-kid-buys-you/what-a-dead-kid-buys-you-process-record.md: a633971a5b59e2dbceb4028ab88dff67562a4409a5cf62bd99e71119898a36f0
 - published/what-a-dead-kid-buys-you-process-record.html: d468ac260a904d3ef0f401d8691ae160263c1899a8fcf788d58e79a07aee7bf5
+
+For Apocaloptimist, at commit 07063f9:
+
+- apocaloptimist/apocaloptimist-process-record.md: c53adf04763192722030e8dfb50ee69a9bf3c41587be6094551f0d425d1d52a1
+- published/apocaloptimist-process-record.html: ba3ea44143bbb025dd55b7e8e98eabbd6e153e613a74e7c9c31cf32518298e97
 
 ### Records that are not pieces
 
