@@ -67,6 +67,7 @@ Topic [0.0.10897644](https://hashscan.io/mainnet/topic/0.0.10897644), "Proof of 
 | What a Dead Kid Buys You | [#9](https://hashscan.io/mainnet/topic/0.0.10897644) | 2026-10-29 17:13:29 | commit e8ad4ed |
 | Apocaloptimist | [#11](https://hashscan.io/mainnet/topic/0.0.10897644) | 2026-11-08 11:22:42 | commit 07063f9 |
 | The Janky Cart | [#12](https://hashscan.io/mainnet/topic/0.0.10897644) | 2026-11-08 11:24:42 | commit c6b4544 |
+| Privacy Is a Fantasy | [#13](https://hashscan.io/mainnet/topic/0.0.10897644) | 2026-11-12 06:49:52 | commit 9bd5e1a |
 
 Messages #2, #4, #5 and #6 are duplicates, each one byte for byte identical to the record before it: #2 duplicates #1, and #4, #5 and #6 duplicate #3. They were posted when a script was re-run before the first post had shown up on the network. They change nothing, and #1, #3, #7, #8 and #9 are the anchors. The three duplicates of #3 were found on October 29, 2026, while the next record was being anchored. Until then this README and the A Drone With Hands process record both said one message went up that day. That was wrong, and this paragraph is the correction.
 
@@ -104,6 +105,11 @@ For The Janky Cart, at commit c6b4544:
 
 - the-janky-cart/the-janky-cart-process-record.md: 41a42ef99ebb94d288137136d49853e39735aa94b6f601549fe76aaa42f5d4cf
 - published/the-janky-cart-process-record.html: 17ab4d3894d872f49adf3987c61ff2f357a8bf6fb2f6ead7f89b6a5dba976ff6
+
+For Privacy Is a Fantasy, at commit 9bd5e1a:
+
+- privacy-is-a-fantasy/privacy-is-a-fantasy-process-record.md: 954ea8c85aad4c45d517bd39568764d1734cbd23be1a917710471bd396330425
+- published/privacy-is-a-fantasy-process-record.html: a9a3ce3915cfaa25de7190a3ad4a0ecd682f14afa69580796f1c3f8f251395dc
 
 ### Records that are not pieces
 
