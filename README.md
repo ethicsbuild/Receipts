@@ -26,6 +26,7 @@ My spoken lines are transcribed as I said them, with the false starts and the sw
 | [What They Are Afraid Of](https://gagecasswoodle.substack.com/p/what-they-are-afraid-of) | October 29, 2026 | [what-they-are-afraid-of/what-they-are-afraid-of-process-record.md](what-they-are-afraid-of/what-they-are-afraid-of-process-record.md) (one day of the conversation is lost and the record says where) |
 | [The Janky Cart](https://gagecasswoodle.substack.com/p/the-janky-cart) | November 4, 2026 | [the-janky-cart/the-janky-cart-process-record.md](the-janky-cart/the-janky-cart-process-record.md) (names replaced with roles; some personal details held back, and the record says where) |
 | [Apocaloptimist](https://gagecasswoodle.substack.com/p/apocaloptimist) | November 8, 2026 | [apocaloptimist/apocaloptimist-process-record.md](apocaloptimist/apocaloptimist-process-record.md) (names replaced with roles; the three recordings it draws on are not published, and the record lists the lines it uses) |
+| [Privacy Is a Fantasy](https://gagecasswoodle.substack.com/p/privacy-is-a-fantasy) | November 12, 2026 | [privacy-is-a-fantasy/privacy-is-a-fantasy-process-record.md](privacy-is-a-fantasy/privacy-is-a-fantasy-process-record.md) (names replaced with roles; parts of my working setup and one professional consideration blurred, and the record says where) |
 
 ## Reading the records
 
@@ -38,6 +39,7 @@ Each record also has a page where the two voices look different: a person's word
 - [What They Are Afraid Of](https://ethicsbuild.github.io/Receipts/published/what-they-are-afraid-of-process-record.html)
 - [The Janky Cart](https://ethicsbuild.github.io/Receipts/published/the-janky-cart-process-record.html)
 - [Apocaloptimist](https://ethicsbuild.github.io/Receipts/published/apocaloptimist-process-record.html)
+- [Privacy Is a Fantasy](https://ethicsbuild.github.io/Receipts/published/privacy-is-a-fantasy-process-record.html)
 
 The .md files are the records of reference. The styled pages are the same text, formatted.
 
