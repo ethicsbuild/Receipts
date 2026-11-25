@@ -28,6 +28,7 @@ My spoken lines are transcribed as I said them, with the false starts and the sw
 | [Apocaloptimist](https://gagecasswoodle.substack.com/p/apocaloptimist) | November 8, 2026 | [apocaloptimist/apocaloptimist-process-record.md](apocaloptimist/apocaloptimist-process-record.md) (names replaced with roles; the three recordings it draws on are not published, and the record lists the lines it uses) |
 | [Privacy Is a Fantasy](https://gagecasswoodle.substack.com/p/privacy-is-a-fantasy) | November 12, 2026 | [privacy-is-a-fantasy/privacy-is-a-fantasy-process-record.md](privacy-is-a-fantasy/privacy-is-a-fantasy-process-record.md) (names replaced with roles; parts of my working setup and one professional consideration blurred, and the record says where) |
 | Protect the Children | Not yet published | [protect-the-children/protect-the-children-process-record.md](protect-the-children/protect-the-children-process-record.md) (names replaced with roles; parts of my working setup, the name I gave my AI and one private matter blurred; the drafting chat summarized, not transcribed, and the record says where) |
+| If I Told You the Best Movie I've Ever Seen Has No Dialogue, You'd Laugh at Me | Not yet published | [best-movie-no-dialogue/best-movie-no-dialogue-process-record.md](best-movie-no-dialogue/best-movie-no-dialogue-process-record.md) (names replaced with roles; parts of my working setup and a few private details blurred; draft one and the chat it came from are not included, and the record says why) |
 
 ## Reading the records
 
@@ -42,6 +43,7 @@ Each record also has a page where the two voices look different: a person's word
 - [Apocaloptimist](https://ethicsbuild.github.io/Receipts/published/apocaloptimist-process-record.html)
 - [Privacy Is a Fantasy](https://ethicsbuild.github.io/Receipts/published/privacy-is-a-fantasy-process-record.html)
 - [Protect the Children](https://ethicsbuild.github.io/Receipts/published/protect-the-children-process-record.html)
+- [If I Told You the Best Movie I've Ever Seen Has No Dialogue, You'd Laugh at Me](https://ethicsbuild.github.io/Receipts/published/best-movie-no-dialogue-process-record.html)
 
 The .md files are the records of reference. The styled pages are the same text, formatted.
 
