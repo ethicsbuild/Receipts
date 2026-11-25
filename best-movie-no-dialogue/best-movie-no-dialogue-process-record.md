@@ -1134,4 +1134,4 @@ And one of the other things that I kept thinking about during watching of the fi
 
 ## Status
 
-Not yet published. Built November 25, 2026, from the November 22 chat, the November 25 chat and the doc's final state on November 25. Not yet anchored on Hedera.
+Published November 25, 2026, at https://gagecasswoodle.substack.com/p/if-i-told-you-the-best-movie-ive. Built November 25, 2026, from the November 22 chat, the November 25 chat and the doc's final state on November 25. Not yet anchored on Hedera.
